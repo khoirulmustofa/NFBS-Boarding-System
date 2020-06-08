@@ -1,0 +1,15 @@
+.mb3 {
+    margin-bottom: 3px
+}
+
+.lbl-nama {
+    font-weight: unset;
+    font-size: unset;
+    padding: .5em .5em .6em;
+    display: flex;
+}
+
+.padding-no-lr {
+    padding-right: unset !important;
+    padding-left: unset !important;
+}
